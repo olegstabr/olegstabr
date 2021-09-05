@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olegstabr
 - 👀 I’m interested in football (not soccer!), read books and programming
-- 🌱 I’m currently learning Swift for iOS Developing
+- 🌱 I’m currently learning SwiftUI for iOS Developing
 - 💞️ I’m looking to collaborate on Apple Inc.
 - 📫 How to reach me - Discord: olegstabr#8140, Website: olegstabr.github.io
 
